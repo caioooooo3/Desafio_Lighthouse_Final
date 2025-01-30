@@ -18,7 +18,7 @@ Este projeto analisa e modela preços de imóveis utilizando Machine Learning e 
 
 ## Estrutura do repositório
 - `EDA.pdf` → Relatório da análise exploratória.
-- `modelo_precificacao.pkl` → Modelo treinado salvo.
+- `modelo_precificacao.pkl` → Modelo treinado salvo no Google Drive.
 - `requirements.txt` → Lista de pacotes utilizados.
 - `README.md` → Instruções do projeto.
 
