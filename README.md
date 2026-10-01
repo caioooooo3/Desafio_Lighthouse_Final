@@ -1,26 +1,9 @@
-# Precificação de Imóveis - Desafio Lighthouse
-Este projeto analisa e modela preços de imóveis utilizando Machine Learning e análise exploratória.
+# Deprecated repository
 
-## Como instalar e executar
-1. **Clone o repositório**:
-   ```bash
-   git clone https://github.com/caioooooo3/Desafio_Lighthouse_final.git
-   ```
-2. **Entre na pasta do projeto**:
-   ```bash
-   cd Desafio_Lighthouse
-   ```
-3. **Instale as dependências**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. **Execute os notebooks** no Jupyter Notebook ou Google Colab.
+This repository is an older duplicate of the Lighthouse real-estate pricing project.
 
-## Estrutura do repositório
-- `EDA.pdf` → Relatório da análise exploratória.
-- `modelo_precificacao.pkl` → Modelo treinado salvo no Google Drive.
-- `requirements.txt` → Lista de pacotes utilizados.
-- `README.md` → Instruções do projeto.
+The maintained version — including the exploratory notebook and the Machine Learning modeling notebook — is:
 
-## Contato
-Caso tenha dúvidas, entre em contato pelo [GitHub](https://github.com/caioooooo3).
+**https://github.com/caioooooo3/Desafio_Lighthouse**
+
+Please use that repository for the current project documentation and code.
